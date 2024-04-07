@@ -17,7 +17,7 @@ Este projeto resume os principais aspectos do projeto, desde sua estrutura e lay
 
 - Melhorando a acessibilidade ou a compatibilidade com diferentes navegadores.
 
-- Otimizando o código CSS/SCSS para melhor desempenho e legibilidade.
+- Otimizando o código CSS para melhor desempenho e legibilidade.
 
 - Sinta-se à vontade para abrir uma <b>issue</b> ou enviar um <b>pull reques</b> com suas contribuições.<br><br>
 
