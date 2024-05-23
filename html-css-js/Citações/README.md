@@ -33,18 +33,18 @@ Para executar o <b>projeto</b> localmente, execute este comando em seu git bash:
 <b>Linux e macOS:</b>
 
 ```bash
-git clone https://github.com/be-frontend/html-css-js.git
+git clone https://github.com/be-frontend/citacoes.git
 ```
 
 <b>Windows:</b>
 
 ```bash
-git clone https://github.com/be-frontend/html-css-js.git
+git clone https://github.com/be-frontend/citacoes.git
 ```
 Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 
 ```bash
-cd html-css-js
+cd citacoes
 ```
 ```bash
 Você pode abri-lo no VS Code digitando "code ."
